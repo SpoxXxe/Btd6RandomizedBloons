@@ -1,0 +1,6 @@
+C:\Users\agent\source\repos\BtD6RandomizedRounds\BtD6RandomizedRounds\bin\Debug\BtD6RandomizedRounds.dll
+C:\Users\agent\source\repos\BtD6RandomizedRounds\BtD6RandomizedRounds\bin\Debug\BtD6RandomizedRounds.pdb
+C:\Users\agent\source\repos\BtD6RandomizedRounds\BtD6RandomizedRounds\obj\Debug\BtD6RandomizedRounds.csproj.AssemblyReference.cache
+C:\Users\agent\source\repos\BtD6RandomizedRounds\BtD6RandomizedRounds\obj\Debug\BtD6RandomizedRounds.csproj.CoreCompileInputs.cache
+C:\Users\agent\source\repos\BtD6RandomizedRounds\BtD6RandomizedRounds\obj\Debug\BtD6RandomizedRounds.dll
+C:\Users\agent\source\repos\BtD6RandomizedRounds\BtD6RandomizedRounds\obj\Debug\BtD6RandomizedRounds.pdb
